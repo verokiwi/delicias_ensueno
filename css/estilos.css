@@ -1,0 +1,84 @@
+
+
+#nav-item > .bi{
+    font-size: "10 rem";
+    color: black;
+}
+
+#col > .bi {
+    font-size: "50 rem";
+    text-align: center;
+}
+
+h1 {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #753a3c;
+    font-size: 28px;
+    text-align:center;
+}
+
+.header {
+    background-color:#f8d1e7;
+    padding: 10px;
+    padding-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+p {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: 60px;
+  text-align: center;
+}
+
+.header > p {
+    text-align: left;
+}
+
+.header > p > i {
+    text-align: center;
+}
+
+form {
+    background-color:aliceblue;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #cc768d;
+    color: #fffaf7;
+    padding: 5px;
+    text-align:center;
+    width: 100%;
+
+}
+
+h5 {
+        font-family: "Delius", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #753a3c;
+        font-size: 28px;
+        text-align:center;
+}
+
+
+.section {
+    background-color: #f7f4f0;
+    padding: 10px;
+    padding-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.article {
+    background-color: #eadcd4;
+    padding: 10px;
+    padding-top: 15px;
+    width: 100%;
+    text-align: center;
+}
